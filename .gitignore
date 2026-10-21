@@ -1,0 +1,21 @@
+# environnements
+.venv/
+.venv-backup/
+.venv-backup-*/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+
+# secrets
+.env
+
+# données et fichiers générés (politique du TP)
+data/raw/telco.csv
+data/processed/
+artifacts/
+reports/
+mlruns/
