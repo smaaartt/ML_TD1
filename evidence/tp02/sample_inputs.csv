@@ -1,0 +1,21 @@
+tenure,MonthlyCharges,TotalCharges,Contract,InternetService,PaymentMethod
+2,24.3,38.45,Month-to-month,DSL,Mailed check
+70,106.05,7554.05,Month-to-month,Fiber optic,Electronic check
+7,69.45,477.05,One year,DSL,Electronic check
+9,75.85,724.65,Month-to-month,Fiber optic,Electronic check
+26,85.9,2196.45,Month-to-month,Fiber optic,Credit card (automatic)
+72,116.8,8456.75,Two year,Fiber optic,Credit card (automatic)
+20,69.8,1540.35,Month-to-month,Fiber optic,Bank transfer (automatic)
+59,19.3,1192.7,Two year,No,Credit card (automatic)
+55,57.55,3046.4,Two year,DSL,Bank transfer (automatic)
+60,61.4,3638.25,Two year,DSL,Electronic check
+33,83.85,2716.3,Month-to-month,Fiber optic,Credit card (automatic)
+58,19.15,1035.5,Two year,No,Bank transfer (automatic)
+39,81.4,3213.75,One year,Fiber optic,Credit card (automatic)
+17,51.5,900.5,Month-to-month,DSL,Mailed check
+35,50.15,1655.35,Month-to-month,DSL,Mailed check
+16,81.0,1312.15,Month-to-month,Fiber optic,Electronic check
+0,19.7,,One year,No,Mailed check
+43,19.55,876.15,Two year,No,Mailed check
+34,24.95,894.3,Two year,No,Credit card (automatic)
+51,56.15,2898.95,One year,DSL,Electronic check
